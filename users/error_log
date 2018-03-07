@@ -1,0 +1,5 @@
+[04-Feb-2016 17:56:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kingsales1/public_html/ppr/users/index.php on line 174
+[04-Feb-2016 17:56:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kingsales1/public_html/ppr/users/edit.php on line 639
+[04-Feb-2016 17:58:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kingsales1/public_html/ppr/users/edit.php on line 639
+[04-Feb-2016 17:59:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kingsales1/public_html/ppr/users/edit.php on line 639
+[04-Feb-2016 18:01:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kingsales1/public_html/ppr/users/edit.php on line 639
